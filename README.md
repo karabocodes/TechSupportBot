@@ -23,7 +23,7 @@ How to Run
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/chatbot-techsupport.git
+git clone https://github.com/karabocodes/TechSupportBot
 cd chatbot-techsupport
 Run the chatbot script:
 bash
